@@ -15,7 +15,7 @@ Example:
 }
 ```
 4. Run the `npm start` command for development.
-5. Run the `build` gulp task to process build files and generate a zip.
+5. Run the `npm run build` gulp task to process build files and generate a zip.
 
 ## Support
 
